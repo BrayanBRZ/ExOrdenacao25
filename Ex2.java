@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Ex2 {
 
 	public static void main(String[] args) {
-		int[] arr = { 3, 4, 9, 2, 5, 8, 2, 1, 7 };
+		int[] arr = { 3, 0, -2, 5, 8 };
 		int n = arr.length;
 		System.out.println("Selection Sort:");
 
